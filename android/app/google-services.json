@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152702398847",
+    "project_id": "brands-45a6d",
+    "storage_bucket": "brands-45a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152702398847:android:feae11774369d3226aea4a",
+        "android_client_info": {
+          "package_name": "com.example.brands_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152702398847-d41oofk1h96ou85gomqo3a7pbe4cuurk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWymFSos7qcR0OlXqBW5ry4VP9HTfNcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152702398847-d41oofk1h96ou85gomqo3a7pbe4cuurk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
